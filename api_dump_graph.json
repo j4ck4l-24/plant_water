@@ -1,0 +1,760 @@
+{
+    "data": [
+        {
+            "date": 45197.0,
+            "time": 0.19090277777777778,
+            "Tank level": 9.0,
+            "Temperature": 29.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.19101851851851853,
+            "Tank level": 9.0,
+            "Temperature": 31.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.19115740740740741,
+            "Tank level": 9.0,
+            "Temperature": 31.0,
+            "moisture level": 194.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.19127314814814814,
+            "Tank level": 9.0,
+            "Temperature": 31.0,
+            "moisture level": 194.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.1913888888888889,
+            "Tank level": 9.0,
+            "Temperature": 31.0,
+            "moisture level": 194.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.19150462962962964,
+            "Tank level": 9.0,
+            "Temperature": 32.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.19162037037037036,
+            "Tank level": 9.0,
+            "Temperature": 32.0,
+            "moisture level": 194.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.1917361111111111,
+            "Tank level": 9.0,
+            "Temperature": 32.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.19188657407407408,
+            "Tank level": 9.0,
+            "Temperature": 32.0,
+            "moisture level": 194.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.1920023148148148,
+            "Tank level": 9.0,
+            "Temperature": 33.0,
+            "moisture level": 194.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.19211805555555556,
+            "Tank level": 9.0,
+            "Temperature": 33.0,
+            "moisture level": 194.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.19224537037037037,
+            "Tank level": 9.0,
+            "Temperature": 33.0,
+            "moisture level": 194.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.19236111111111112,
+            "Tank level": 9.0,
+            "Temperature": 33.0,
+            "moisture level": 194.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.1925,
+            "Tank level": 9.0,
+            "Temperature": 34.0,
+            "moisture level": 194.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.1926388888888889,
+            "Tank level": 3.0,
+            "Temperature": 34.0,
+            "moisture level": 197.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.19275462962962964,
+            "Tank level": 9.0,
+            "Temperature": 34.0,
+            "moisture level": 194.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.19287037037037036,
+            "Tank level": 9.0,
+            "Temperature": 35.0,
+            "moisture level": 194.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.1929861111111111,
+            "Tank level": 9.0,
+            "Temperature": 35.0,
+            "moisture level": 194.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.19313657407407409,
+            "Tank level": 9.0,
+            "Temperature": 35.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.1932523148148148,
+            "Tank level": 9.0,
+            "Temperature": 36.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.2441435185185185,
+            "Tank level": 2.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.2442939814814815,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 194.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.24444444444444444,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 197.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.24460648148148148,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 194.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.2447800925925926,
+            "Tank level": 26.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 189.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.24494212962962963,
+            "Tank level": 58.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 179.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.24509259259259258,
+            "Tank level": 129.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 163.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.24525462962962963,
+            "Tank level": 96.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 169.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.2454050925925926,
+            "Tank level": 135.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 160.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.24556712962962962,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.2457175925925926,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.24586805555555555,
+            "Tank level": 44.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 186.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.2460300925925926,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.24621527777777777,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.24636574074074075,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.3115162037037037,
+            "Tank level": 26.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 185.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.3124884259259259,
+            "Tank level": 3.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 196.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.3126851851851852,
+            "Tank level": 3.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.31288194444444445,
+            "Tank level": 2.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 197.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.3130439814814815,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.3132175925925926,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.3133796296296296,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.31355324074074076,
+            "Tank level": 3.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.3137152777777778,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.3138888888888889,
+            "Tank level": 2.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 197.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.3140625,
+            "Tank level": 3.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 197.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.3142476851851852,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 197.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.31440972222222224,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.3145833333333333,
+            "Tank level": 39.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 188.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.31475694444444446,
+            "Tank level": 98.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 172.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.31494212962962964,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.3151736111111111,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 197.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.31537037037037036,
+            "Tank level": 3.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 196.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.31555555555555553,
+            "Tank level": 3.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.31577546296296294,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.3159490740740741,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 197.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.31613425925925925,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45197.0,
+            "time": 0.3163078703703704,
+            "Tank level": 3.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.25047453703703704,
+            "Tank level": 3.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 196.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.2506597222222222,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 197.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.25083333333333335,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.25100694444444444,
+            "Tank level": 3.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 196.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.25122685185185184,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.251412037037037,
+            "Tank level": 3.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.25157407407407406,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.25181712962962965,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 197.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.25322916666666667,
+            "Tank level": 3.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 196.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.25340277777777775,
+            "Tank level": 3.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 196.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.2535763888888889,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.25377314814814816,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.25395833333333334,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.2541203703703704,
+            "Tank level": 3.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.25431712962962966,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.25449074074074074,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.2546759259259259,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.2548611111111111,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 197.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.25503472222222223,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.2552083333333333,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.25538194444444445,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.2556365740740741,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.25581018518518517,
+            "Tank level": 3.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.2559837962962963,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 197.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.2561689814814815,
+            "Tank level": 3.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 197.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.2563310185185185,
+            "Tank level": 3.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.2565046296296296,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.2566898148148148,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.25763888888888886,
+            "Tank level": 3.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 196.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.2578125,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.25797453703703704,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.2581481481481481,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.25832175925925926,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.2584837962962963,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.25871527777777775,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.25886574074074076,
+            "Tank level": 41.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 187.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.25903935185185184,
+            "Tank level": 41.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 187.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.259212962962963,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.25938657407407406,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.2595486111111111,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.25971064814814815,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.2598726851851852,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.2600462962962963,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.2602083333333333,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.26037037037037036,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.26057870370370373,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 197.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.2607291666666667,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.2608912037037037,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.2610648148148148,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        },
+        {
+            "date": 45199.0,
+            "time": 0.26123842592592594,
+            "Tank level": 9.0,
+            "Temperature": 2147483647.0,
+            "moisture level": 195.0
+        }
+    ]
+}
